@@ -1,0 +1,14 @@
+target/
+project/target/
+project/project/
+.idea/
+*.iml
+*.iws
+out/
+build/
+dist/
+*.log
+.DS_Store
+*.tmp
+*.temp
+*~
